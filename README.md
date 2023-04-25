@@ -1,5 +1,4 @@
-### Hi there 👋(BannerProfile.gif)
-
+### ![Hello there!👋 I'm Martin](BannerProfile.gif)
 <!--
 **martinhpcodecnoob/martinhpcodecnoob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
