@@ -62,9 +62,9 @@
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" width="50" height="50" alt="Tailwind CSS" />
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Tailwind CSS" />
       </a>
-      <br>Python
+      <br>Bash
     </td>
     <td align="center" width="100">
       <a href="#">
