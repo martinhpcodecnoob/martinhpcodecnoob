@@ -62,7 +62,7 @@
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Tailwind CSS" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Bash" />
       </a>
       <br>Bash
     </td>
