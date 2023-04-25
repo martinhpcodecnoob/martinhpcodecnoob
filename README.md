@@ -8,5 +8,132 @@
 <a href="https://fb.com//martin.hp.902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="/martin.hp.902" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+---
+<br>
+<h3 align='center'><strong>📐 Languages & Tools</strong></h3>
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50" alt="HTML5" />
+      </a>
+      <br>HTML5
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="50" height="50" alt="CSS3" />
+      </a>
+      <br>CSS3
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="36" height="36" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" width="50" height="50" alt="Redux" />
+      </a>
+      <br>Redux
+    </td>
+    <td align="center"  width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://nodejs.dev/static/images/logos/nodejs-new-pantone-white.svg" width="50" height="50" alt="NodeJS" />
+      </a>
+      <br>Node.js
+    </td>
+    <td align="center"  width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" width="50" height="50" alt="Tailwind CSS" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://user-images.githubusercontent.com/74881239/209391290-2bcd19ea-f952-43b2-be00-93ce6da39c3a.png" width="50" height="50" alt="React" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="100"> 
+      <a href="#" >
+        <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" width="50" height="50" alt="ExpressJS" />
+      </a>
+      <br>Express.js
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/psql.png" width="50" height="50" alt="Postgresql" />
+      </a>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://seeklogo.com/images/S/sequelize-logo-9A5075DB9F-seeklogo.com.png" width="46" height="50" alt="Postgresql" />
+      </a>
+      <br>Sequelize
+    </td>
+    
+  </tr>
+  
+  
+  
+  
+  <tr>
+    <td size="1" align="center" width="100">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
+      </a>
+      <br><font size="1">React Native</font>
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="40" height="50" alt="React" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="42" height="50" alt="React" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" width="36" height="50" alt="React" />
+      </a>
+      <br>Figma
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="50" height="50" alt="React" />
+      </a>
+      <br>Adobe Xd
+    </td>
+    <td align="center" width="100">
+      <a href="#">
+        <img src="https://www.scrum.org/themes/custom/scrumorg_v2/assets/images/logo-250.png" width="50" height="50" alt="React" />
+      </a>
+      <br>Scrum
+    </td>
+  
+  
+  </tr>
+</table>
