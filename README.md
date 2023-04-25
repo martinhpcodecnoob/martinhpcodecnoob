@@ -99,9 +99,9 @@
   <tr>
     <td size="1" align="center" width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" height="50" alt="React" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="postman" />
       </a>
-      <br><font size="1">React Native</font>
+      <br><font size="1">Postman</font>
     </td>
     <td align="center" width="100">
       <a href="#">
