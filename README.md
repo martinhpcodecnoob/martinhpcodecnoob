@@ -2,6 +2,15 @@
 <h1 align="center">Hi 👋, I'm Martin Hernandez Peña</h1>
 <h3 align="center">Soy un desarrollador de software de Ica - Peru, cuyas pasiones son codificar y seguir aprendiendo nuevas tecnologias, ya desde la secundaria siempre llamo la atencion la programacion y el ensamble de ordenadores obteniendo desde temprana edad reconocimientos, soy muy curioso e investigador a la hora de buscar soluciones logicas</h3>
 
+## ¿Que hago?
+
+Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formacion de programador, tambien me dedico el area de soporte tecnico N2 y esamblaje de ordenadores
+
+## ¿A donde me dirijo?
+
+Mi objetivo es poder impactar en el crecimiento de negocio ya sea entidades y personas.
+En estos tiempos que vivimos existe una gran demanda de programadores en el mercado, muchas personas y entidades buscan gestionar y distribiur su informacion de la mejor manera para una buena toma de decision y resultado, es ahi donde entro en conocer y solucionar los problemas codeando y ampliar mi perpectiva de alcance.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in//martinhpcoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/martinhpcoding" height="30" width="40" /></a>
