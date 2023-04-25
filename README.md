@@ -62,15 +62,15 @@
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Bash" />
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" />
       </a>
-      <br>Bash
+      <br>Git
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://user-images.githubusercontent.com/74881239/209391290-2bcd19ea-f952-43b2-be00-93ce6da39c3a.png" width="50" height="50" alt="React" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50" alt="Bootstrap" />
       </a>
-      <br>Java
+      <br>Bootstrap
     </td>
     <td align="center" width="100"> 
       <a href="#" >
