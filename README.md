@@ -105,15 +105,15 @@
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="40" height="50" alt="React" />
+        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40" height="50" alt="Jest" />
       </a>
-      <br>Flutter
+      <br>Jest
     </td>
     <td align="center" width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="42" height="50" alt="React" />
+        <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="42" height="50" alt="Mocha" />
       </a>
-      <br>Kotlin
+      <br>Mocha
     </td>
     <td align="center" width="100">
       <a href="#">
