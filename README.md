@@ -9,7 +9,7 @@ Actualmente me dedico a realizar proyectos que me permitan avanzar en mi formaci
 ## ¿A donde me dirijo?
 
 Mi objetivo es poder impactar en el crecimiento de negocio ya sea entidades y personas.
-En estos tiempos que vivimos existe una gran demanda de programadores en el mercado, muchas personas y entidades buscan gestionar y distribiur su informacion de la mejor manera para una buena toma de decision y resultado, es ahi donde entro en conocer y solucionar los problemas codeando y ampliar mi perpectiva de alcance.
+En estos tiempos que vivimos existe una gran demanda de programadores en el mercado, muchas personas y entidades buscan gestionar y distribuir su informacion de la mejor manera para una buena toma de decision y resultado, es ahi donde entro en conocer y solucionar los problemas codeando y ampliar mi perpectiva de alcance.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
